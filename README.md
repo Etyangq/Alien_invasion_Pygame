@@ -1,5 +1,7 @@
 # Alien invasion game
-Alien invasion game in Python from 'Python Crash Course' book with chapter 14 exercises 'all-time high score'.
+Alien invasion game in Python from 'Python Crash Course' book with chapter 14 exercises 'all-time high score'.  
+
+<Python编程到入门> 外星人入侵游戏-第14章练习"历史最高分"。
 
 ![](https://github.com/Etyangq/Images_for_md/blob/main/images/gif%20alien%20invasion.gif?raw=true)
 
